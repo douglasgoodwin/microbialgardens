@@ -1,5 +1,4 @@
-# baseurl = "http://microbialgardens.com"
-baseURL = "https://douglasgoodwin.github.io/microbialgardens/"
+baseurl = "https://microbialgardens.com"
 title = "Microbial Gardens"
 theme = "dimension"
 languageCode = "en-us"
@@ -9,11 +8,11 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  title = "Dimension"
-  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
-  logo = "fa-diamond"
-  copyright = "Untitled"
+  pagetitle = "Microbial Gardens"
+  sitetitle = "Microbial Gardens"
+  description = 'A living adventure'
+  logo = "fa-bug"
+  copyright = "Team Microbial Gardens"
 
 [[params.social]]
   medium = "twitter"
@@ -40,10 +39,3 @@ disableKinds=["RSS"]
 languageName = "English"
 weight = 1
 title = "Dimension"
-
-# [languages.de]
-# languageName = "Deutsch"
-# weight = 2
-# title = "Dimension"
-# description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-#                 <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
