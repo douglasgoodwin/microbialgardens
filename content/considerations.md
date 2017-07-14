@@ -1,10 +1,9 @@
 +++
 date = "2017-06-10T12:03:50-07:00"
-draft = false
 title = "Considerations"
+type = "page"
 
 +++
-
 <!--
 ## Science
 Any science that the students describe should be based in reality. We’re asking students to consider technology that will likely become available five to ten years from now. Has the team demonstrated that trends in current science indicate that their vision will be possible?
@@ -15,8 +14,6 @@ What makes a biotechnological solution the best method to address this problem, 
 ## Compatibility
 How does this vision fit into already-built systems? Does it require an entirely new infrastructure to be built along with it?
 -->
-
-
 
 Microbes usually bring thoughts of sickness and disease. Our research showed us that these tiny creatures inhabit a fascinating world. We realized that exposing their interactions could make these invisible creatures as exciting as the animals that roam the African Savannah. We designed a themed venue to explore this dynamic ecology obscured by scale.
 
@@ -30,4 +27,4 @@ The Gardens are organized in a classic base structure with minor attractions tha
 
 Microbial Gardens is interactive: the park changes from visit to visit. Guests carry resources between pavilions and contribute to ebbs and flows of foods and contaminants. Carnivorous microbes may hitch rides on guests and prey on other microbes. So guests make visible impacts this microscopic worlds. These authentic interactions are unique to Microbial Gardens, and we feel that seeing these effects will increase engagement and generate sympathy for the tiny creatures and environments all around.
 
-We acknowledge previous work by Neri Oxman and the Meditated Matter group at MIT that explores the relationship between biology and engineering. The combination of biology and engineering reveals the perplexing charm of microbes, and we hope that our guests will leave with a new appreciation for the symbiosis between microbes and humans.
+We acknowledge previous work by Neri Oxman and the Meditated Matter group at MIT that explores the relationship between biology and engineering. The combination of biology and engineering reveals the perplexing charm of microbes, and we hope that our guests will leave with a new appreciation for the symbiosis between microbes and humans..
